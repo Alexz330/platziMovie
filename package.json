@@ -1,0 +1,19 @@
+{
+  "name": "platzimovie",
+  "version": "1.0.0",
+  "description": "Ejercicio Practico de Consumo de API REST con JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexz330/platziMovie.git"
+  },
+  "author": "@alexz :)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alexz330/platziMovie/issues"
+  },
+  "homepage": "https://github.com/Alexz330/platziMovie#readme"
+}
